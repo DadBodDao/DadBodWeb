@@ -1,0 +1,5 @@
+[build]
+  command = "git lfs pull"
+
+[[plugins]]
+  package = "@netlify/plugin-git-lfs"
