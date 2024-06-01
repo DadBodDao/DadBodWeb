@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1717272775|5198662810';
+const CACHE_VERSION = '1717273844|6267547179';
 /** @type {string} */
 const CACHE_PREFIX = 'DadBod-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
